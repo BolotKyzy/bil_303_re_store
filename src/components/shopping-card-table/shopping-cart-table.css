@@ -1,0 +1,16 @@
+.shopping-cart-table {
+    background-color: mistyrose;
+}
+.shopping-cart-table .header {
+    background-color: gainsboro;
+}
+.shopping-cart-table .total {
+    text-align: right;
+    font-size: 1.3rem;
+    margin-right: 10px;
+    background-color: gainsboro;
+}
+.shopping-cart-table button {
+    margin-left: 5px;
+    margin-top: 5px;
+}
